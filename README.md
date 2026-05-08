@@ -35,6 +35,14 @@ Phase 2: n8n    ██░░░░░░░░ Starting Soon
 Phase 3: OpenAI ░░░░░░░░░░ Coming Up
 Phase 4: RAG    ░░░░░░░░░░ Coming Up
 
+
+### 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasneural&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 *"Every expert was once a beginner."* 🌱
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer)
